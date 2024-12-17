@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Town 10 Display Thin';
+    src: url('Town10Display-Thin.eot');
+    src: local('Town 10 Display Thin'), local('Town10Display-Thin'),
+        url('Town10Display-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Town10Display-Thin.woff2') format('woff2'),
+        url('Town10Display-Thin.woff') format('woff'),
+        url('Town10Display-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Town 10 Display Black';
+    src: url('Town10Display-Black.eot');
+    src: local('Town 10 Display Black'), local('Town10Display-Black'),
+        url('Town10Display-Black.eot?#iefix') format('embedded-opentype'),
+        url('Town10Display-Black.woff2') format('woff2'),
+        url('Town10Display-Black.woff') format('woff'),
+        url('Town10Display-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Town 10 Display Hairline';
+    src: url('Town10Display-Hairline.eot');
+    src: local('Town 10 Display Hairline'), local('Town10Display-Hairline'),
+        url('Town10Display-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('Town10Display-Hairline.woff2') format('woff2'),
+        url('Town10Display-Hairline.woff') format('woff'),
+        url('Town10Display-Hairline.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Town 10 Display';
+    src: url('Town10Display-Bold.eot');
+    src: local('Town 10 Display Bold'), local('Town10Display-Bold'),
+        url('Town10Display-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Town10Display-Bold.woff2') format('woff2'),
+        url('Town10Display-Bold.woff') format('woff'),
+        url('Town10Display-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Town 10 Display Extra';
+    src: url('Town10Display-ExtraThin.eot');
+    src: local('Town 10 Display Extra Thin'), local('Town10Display-ExtraThin'),
+        url('Town10Display-ExtraThin.eot?#iefix') format('embedded-opentype'),
+        url('Town10Display-ExtraThin.woff2') format('woff2'),
+        url('Town10Display-ExtraThin.woff') format('woff'),
+        url('Town10Display-ExtraThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Town 10 Display';
+    src: url('Town10Display-Light.eot');
+    src: local('Town 10 Display Light'), local('Town10Display-Light'),
+        url('Town10Display-Light.eot?#iefix') format('embedded-opentype'),
+        url('Town10Display-Light.woff2') format('woff2'),
+        url('Town10Display-Light.woff') format('woff'),
+        url('Town10Display-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Town 10 Display';
+    src: url('Town10Display-Medium.eot');
+    src: local('Town 10 Display Medium'), local('Town10Display-Medium'),
+        url('Town10Display-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Town10Display-Medium.woff2') format('woff2'),
+        url('Town10Display-Medium.woff') format('woff'),
+        url('Town10Display-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Town 10 Display';
+    src: url('Town10Display-Regular.eot');
+    src: local('Town 10 Display Regular'), local('Town10Display-Regular'),
+        url('Town10Display-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Town10Display-Regular.woff2') format('woff2'),
+        url('Town10Display-Regular.woff') format('woff'),
+        url('Town10Display-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
